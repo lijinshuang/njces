@@ -487,6 +487,7 @@ footer{
 .footer-info{
     width: 490px;
     margin: 0 25px 0 110px;
+    margin-top:15px;
     float: left;
     font-size: 14px;
 }
